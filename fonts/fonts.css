@@ -1,0 +1,12 @@
+@font-face {
+	font-family: lato--bd;
+	src: url(../fonts/lato/Lato-Bold.ttf);
+}
+@font-face {
+	font-family: chivo--black;
+	src: url(../fonts/chivo/Chivo-Black.otf);
+}
+@font-face {
+	font-family: cart--bd;
+	src: url(../fonts/cart/CartoGothicStd-Bold.otf);
+}
